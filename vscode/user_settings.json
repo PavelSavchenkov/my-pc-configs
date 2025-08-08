@@ -1,0 +1,14 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.panel.defaultLocation": "right",
+    "python.condaPath": "conda",
+    "python-envs.terminal.autoActivationType": "command",
+    "jupyter.logging.level": "debug",
+    "python.interpreter.infoVisibility": "always",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.defaultInterpreterPath": "/home/pavel/anaconda3",
+    "python.analysis.typeCheckingMode": "basic"
+}
